@@ -4,3 +4,53 @@ nohup: ignoring input
  create mode 100644 server/autosave.sh.save
 To https://github.com/hessen1z/VAlhalla-server
    af45a3c..24d6259  main -> main
+[main 3e817e3] autosave Mon May 18 14:33:30 UTC 2026
+ 79 files changed, 11183 insertions(+), 21990 deletions(-)
+ create mode 100644 server/config/spark/tmp/spark-5086ffa176a-libasyncProfiler.so.tmp
+ create mode 100644 server/config/spark/tmp/spark-59443ce36eb-profile-data.jfr.tmp
+ create mode 100644 server/modernfix/structureCacheV1/born_in_chaos_v1_pumkin_evil_7d7eb33361.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_1_bf1fe6d05f.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_fishing_hut_fishing_hut_main_8f26c2abd3.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_0_36e5928c5f.nbt
+ create mode 100644 server/modernfix/structureCacheV1/gnumus_camp_gnumus_dd210ac8ac.nbt
+ create mode 100644 server/modernfix/structureCacheV1/soulsweapons_cathedral_of_resurrection_09424fb7fe.nbt
+ create mode 100644 server/modernfix/structureCacheV1/soulsweapons_champions_graves_main_fee0d0a1ec.nbt
+ create mode 100644 server/usernamecache.json
+ create mode 100644 server/world/advancements/51e8eeba-67a3-3226-a7cb-d95c311e477d.json
+ create mode 100644 server/world/advancements/5eadcf5f-a6a3-3049-ad30-3e10611d48bf.json
+ create mode 100644 server/world/advancements/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7.json
+ create mode 100644 server/world/cobblemonplayerdata/51/51e8eeba-67a3-3226-a7cb-d95c311e477d.json
+ create mode 100644 server/world/cobblemonplayerdata/5e/5eadcf5f-a6a3-3049-ad30-3e10611d48bf.json
+ create mode 100644 server/world/cobblemonplayerdata/93/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7.json
+ create mode 100644 server/world/cobblemonplayerdata/ae/aeb30751-7115-3da7-8afc-54cd92a31ac5.json
+ create mode 100644 server/world/data/perks.dat
+ create mode 100644 server/world/data/slu_mapvars.dat
+ create mode 100644 server/world/deaths/5eadcf5f-a6a3-3049-ad30-3e10611d48bf/df884176-6a63-4f37-88b8-fd5468d89dc4.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/10a4465d-ebdb-471c-82e5-e7abf6c121d4.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/a3fc4ef7-c285-46fb-a8d2-4633722c0afd.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/b5b7d3bd-dfec-4c42-b827-87f102e4bd12.dat
+ create mode 100644 server/world/playerdata/51e8eeba-67a3-3226-a7cb-d95c311e477d.dat
+ create mode 100644 server/world/playerdata/5eadcf5f-a6a3-3049-ad30-3e10611d48bf.dat
+ create mode 100644 server/world/playerdata/5eadcf5f-a6a3-3049-ad30-3e10611d48bf.dat_old
+ create mode 100644 server/world/playerdata/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7.dat
+ create mode 100644 server/world/playerdata/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7.dat_old
+ create mode 100644 server/world/stats/51e8eeba-67a3-3226-a7cb-d95c311e477d.json
+ create mode 100644 server/world/stats/5eadcf5f-a6a3-3049-ad30-3e10611d48bf.json
+ create mode 100644 server/world/stats/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7.json
+ create mode 100644 server/world/uniquedungeons/playerdata/51e8eeba-67a3-3226-a7cb-d95c311e477d.uniquedungeons
+ create mode 100644 server/world/uniquedungeons/playerdata/5eadcf5f-a6a3-3049-ad30-3e10611d48bf.uniquedungeons
+ create mode 100644 server/world/uniquedungeons/playerdata/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7.uniquedungeons
+ create mode 100644 server/world/uniquedungeons/playerdata/aeb30751-7115-3da7-8afc-54cd92a31ac5.uniquedungeons
+ create mode 100644 server/world/xaeromap.txt
+To https://github.com/hessen1z/VAlhalla-server
+   24d6259..3e817e3  main -> main
+fatal: confused by unstable object source data for dd5b4cabe97a6432d663bf19aabc7cc521bdb984
+Everything up-to-date
+fatal: confused by unstable object source data for acef65a3e926a18b711c251cc416bc6f66a8bc60
+Everything up-to-date
+fatal: confused by unstable object source data for 326ae6b757d97c579e8f08afcfe65da339aedc20
+Everything up-to-date
+fatal: confused by unstable object source data for dab50d9c0572a81821cd75c8e5ea2e96dc8225a1
+Everything up-to-date
+fatal: confused by unstable object source data for 5e11fec5ebcb170e7b83e12d60a1c12ee92b0fe9
+Everything up-to-date
