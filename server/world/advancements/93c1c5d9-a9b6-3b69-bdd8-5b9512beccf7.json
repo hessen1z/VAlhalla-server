@@ -5187,78 +5187,65 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "adorn:recipes/bamboo_table": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2026-05-18 22:04:19 +0000",
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_slab": "2026-05-18 22:32:09 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "adorn:recipes/bamboo_shelf": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_slab": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/bamboo_mosaic": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_bamboo_slab": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "adorn:recipes/bamboo_platform": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_slab": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "adorn:recipes/bamboo_drawer": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_slab": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "adorn:recipes/bamboo_bench": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_slab": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "adorn:recipes/bamboo_chair": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_slab": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "adorn:recipes/bamboo_step": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_slab": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "adorn:recipes/bamboo_coffee_table": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_slab": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "twilightforest:recipes/decorations/wood/bamboo_banister": {
     "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
+      "has_item": "2026-05-18 22:32:09 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-18 22:04:14 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
