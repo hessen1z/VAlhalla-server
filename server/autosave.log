@@ -387,3 +387,66 @@ fatal: confused by unstable object source data for 1fc1ec1b8f2353baea3cb60cd985f
 Everything up-to-date
 fatal: confused by unstable object source data for dbb2e9e33724781b0bd4be0927f12c434d0ecc23
 Everything up-to-date
+[main 3d575e3] autosave Mon May 18 21:34:42 UTC 2026
+ 130 files changed, 4502 insertions(+), 56 deletions(-)
+ rename server/config/spark/tmp/{spark-17de4e3ad808-profile-data.jfr.tmp => spark-1cc796e7f5c8-profile-data.jfr.tmp} (79%)
+ create mode 100644 server/world/backpacks/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/travelersbackpack.standard_18.05.2026-20.55.13.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/30498c49-1a72-4d6e-aea6-fc3b18304485.dat
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-1.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-1.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-2.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-2.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-3.-3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-3.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-3.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.0.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.0.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.1.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.1.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.2.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.2.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.2.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-1.-1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-1.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-2.-1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-2.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-3.-3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-3.-4.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-3.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-3.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-3.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-4.-3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.0.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.1.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.1.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.1.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.1.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.2.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.2.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.2.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.2.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.3.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.3.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-1.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-2.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-3.-1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-3.-3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-3.-4.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-3.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-4.-3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-4.-4.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.0.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.0.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.1.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.1.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.1.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.1.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.2.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.2.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.2.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.2.3.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.3.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.3.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.3.3.mca
+To https://github.com/hessen1z/VAlhalla-server
+   5e7aea5..3d575e3  main -> main

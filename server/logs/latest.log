@@ -2289,3 +2289,61 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18May2026 21:11:59.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
 [18May2026 21:12:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
 [18May2026 21:12:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 21:38:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was struck by lightning
+[18May2026 21:38:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was struck by lightning
+[18May2026 21:38:38.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z was kicked for floating too long!
+[18May2026 21:38:38.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Flying is not enabled on this server
+[18May2026 21:38:38.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 21:38:43.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.111.49.103:33195] logged in with entity id 184141 at (1051.721555807703, 103.00133597911214, 1168.5206303501698)
+[18May2026 21:38:43.961] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 21:38:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 21:38:46.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 21:39:13.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts was struck by lightning
+[18May2026 21:39:34.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 21:39:34.282] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 6a4e1628-269b-47ec-8344-6ea66ed8fb30
+[18May2026 21:39:35.466] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 21:39:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 21:40:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has completed the challenge [Godskin Apostle Hunter]
+[18May2026 21:40:08.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has completed the challenge [Godskin Apostle Hunter]
+[18May2026 21:44:22.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Dungeon Knight
+[18May2026 21:44:30.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Val_Guts
+[18May2026 21:45:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 21:45:21.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 21:45:44.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 21:45:52.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 21:53:43.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was killed by magic
+[18May2026 21:53:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Val_Guts
+[18May2026 21:55:19.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 21:55:26.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 21:55:26.672] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-21.55.26.dat
+[18May2026 21:55:26.673] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 91caca75-f59d-494a-be1e-c9d1d4139297
+[18May2026 21:55:27.902] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 21:55:30.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 21:55:53.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 21:56:36.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[18May2026 21:56:36.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 21:58:22.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.111.49.103:42093] logged in with entity id 188684 at (1028.300000011921, 8.399999976158142, 1135.9384042424874)
+[18May2026 21:58:22.515] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 21:58:22.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 21:58:24.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 21:59:35.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 21:59:45.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z was kicked for floating too long!
+[18May2026 21:59:45.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Flying is not enabled on this server
+[18May2026 21:59:45.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 21:59:52.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.111.49.103:37031] logged in with entity id 188873 at (1038.8880830231863, 5.921599998474121, 1135.5753079974143)
+[18May2026 21:59:52.664] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 21:59:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 21:59:55.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 22:03:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts died
+[18May2026 22:04:19.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Executor
+[18May2026 22:04:23.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z was kicked for floating too long!
+[18May2026 22:04:23.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Flying is not enabled on this server
+[18May2026 22:04:23.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 22:04:27.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.111.49.103:47825] logged in with entity id 189919 at (1052.880906335821, 3.7663679939575196, 1148.5721246695819)
+[18May2026 22:04:27.929] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 22:04:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 22:04:28.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts died
+[18May2026 22:04:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 22:04:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 22:04:51.195] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 11e01515-dff3-439a-bc59-c77c7089d01c
+[18May2026 22:04:53.277] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
