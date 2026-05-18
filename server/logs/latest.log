@@ -2403,3 +2403,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18May2026 22:50:25.982] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [18May2026 22:53:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [18May2026 22:53:41.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[18May2026 22:59:55.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Val_Guts[/127.191.25.156:51157] logged in with entity id 202803 at (55.59937793433693, 64.0, 74.56081600218357)
+[18May2026 22:59:55.819] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Val_Guts
+[18May2026 22:59:55.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts joined the game
+[18May2026 22:59:58.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 23:03:37.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:04:29.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Hollow Soldier
+[18May2026 23:04:38.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:04:38.485] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is d1f9f184-0748-4429-9740-a1e6c53e4135
+[18May2026 23:04:45.295] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:04:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
