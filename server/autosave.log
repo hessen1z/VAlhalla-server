@@ -283,3 +283,107 @@ fatal: confused by unstable object source data for 0301b27ed8ce87526c5258e2a0f5a
 Everything up-to-date
 fatal: confused by unstable object source data for 066490d9ef4be94d0c5a968f44459a78a18bca3c
 Everything up-to-date
+[main 5e7aea5] autosave Mon May 18 20:04:22 UTC 2026
+ 174 files changed, 9849 insertions(+), 1317 deletions(-)
+ delete mode 100644 server/config/spark/tmp/spark-1143f45f2e39-profile-data.jfr.tmp
+ create mode 100644 server/config/spark/tmp/spark-17de4e3ad808-profile-data.jfr.tmp
+ create mode 100644 server/modernfix/structureCacheV1/dark_souls_expansion_ruinscale1_be4e9b1f53.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_bandit_towers_bandit_towers_crossing_1_00ba2bc459.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_coliseum_coliseum_part_2_f3d5e86451.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_heavenly_conqueror_heavenly_conqueror_part_2_40b15fe9c8.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_2_3b98e8aeaf.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_2_674404d5ca.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_2_6d894f474b.nbt
+ create mode 100644 server/modernfix/structureCacheV1/dungeons_arise_mushroom_mines_mushroom_mines_part_2_93781b295d.nbt
+ create mode 100644 server/modernfix/structureCacheV1/gnumus_gnumus_ruins_1f4ef80c92.nbt
+ create mode 100644 server/modernfix/structureCacheV1/gnumus_gnumus_small_ruins_74b5e54a96.nbt
+ create mode 100644 server/modernfix/structureCacheV1/gnumus_gnumus_statue_ed54f4cded.nbt
+ create mode 100644 server/modernfix/structureCacheV1/goety_graveyard_chest_3cba57e37b.nbt
+ create mode 100644 server/modernfix/structureCacheV1/goety_graveyard_podzol_193ba3cb3a.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_badlands_pueblo_town_centers_badlands_meeting_point_1_0991d1e84c.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_beach_lighthouse_town_centers_beach_meeting_point_1_ead480a8b3.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_birch_forest_romanian_town_centers_birch_forest_meeting_point_1_0427c71613.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_exclusives_iberian_town_centers_iberian_meeting_point_1_57340acae3.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_exclusives_nilotic_base_plate_0ec67d34eb.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_exclusives_tudor_town_centers_tudor_meeting_point_1_0b4ad78f49.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_exclusives_wandering_trader_camp_town_centers_trader_meeting_point_1_1853b4124f.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_town_centers_flower_forest_meeting_point_1_4ddbe58f43.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_grove_villager_outpost_town_centers_grove_meeting_point_1_a331015a4a.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_meadow_swiss_town_centers_meadow_meeting_point_1_711b48458b.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_mushroom_fields_fantasy_town_centers_mushroom_meeting_point_1_a4d3382475.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_snowy_slopes_inn_town_centers_snowy_slopes_meeting_point_1_86e83b5d05.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_sparse_jungle_polynesian_town_centers_sparse_jungle_meeting_point_1_4954e761dd.nbt
+ create mode 100644 server/modernfix/structureCacheV1/kaisyn_village_sunflower_plains_farm_town_centers_sunflower_plains_meeting_point_1_f6b2f348cf.nbt
+ create mode 100644 server/world/backpacks/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/travelersbackpack.standard_18.05.2026-18.12.21.dat
+ create mode 100644 server/world/backpacks/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/travelersbackpack.standard_18.05.2026-18.29.40.dat
+ create mode 100644 server/world/backpacks/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/travelersbackpack.standard_18.05.2026-18.51.32.dat
+ create mode 100644 server/world/backpacks/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/travelersbackpack.standard_18.05.2026-18.52.14.dat
+ create mode 100644 server/world/backpacks/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/travelersbackpack.standard_18.05.2026-18.52.41.dat
+ create mode 100644 server/world/backpacks/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/travelersbackpack.standard_18.05.2026-19.26.24.dat
+ create mode 100644 server/world/backpacks/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/travelersbackpack.standard_18.05.2026-19.28.18.dat
+ create mode 100644 server/world/backpacks/e2de95db-758c-3f06-9268-e1ae5067c5d8/travelersbackpack.diamond_18.05.2026-19.06.30.dat
+ create mode 100644 server/world/backpacks/e2de95db-758c-3f06-9268-e1ae5067c5d8/travelersbackpack.diamond_18.05.2026-19.26.04.dat
+ create mode 100644 server/world/backpacks/e2de95db-758c-3f06-9268-e1ae5067c5d8/travelersbackpack.diamond_18.05.2026-19.34.52.dat
+ create mode 100644 server/world/backpacks/e2de95db-758c-3f06-9268-e1ae5067c5d8/travelersbackpack.diamond_18.05.2026-19.40.33.dat
+ create mode 100644 server/world/deaths/5eadcf5f-a6a3-3049-ad30-3e10611d48bf/f5f34922-2d80-49c7-a78a-c44a3c9f7e4c.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/18b1604b-ab55-4749-a6fd-575369f74e40.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/370f6389-c8ec-4e4b-8dc4-3faae84f7ec2.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/5f1010bf-b2b6-46ff-b841-a59d964c2695.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/772f9f9c-ff35-4c61-ba64-e51ef6bc4b76.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/773da13e-da4d-4e66-b9c1-dbca9a1176ed.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/7835a585-b472-4cb1-991f-7117944d92ab.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/9810a187-474c-438e-815a-38f34cd3fde7.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/b4a92f8e-d084-4522-a80e-cbcd027838e2.dat
+ create mode 100644 server/world/deaths/93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7/cdfdfd68-de01-4435-a79b-4d263e3d84da.dat
+ create mode 100644 server/world/deaths/e2de95db-758c-3f06-9268-e1ae5067c5d8/005837b5-d536-4959-9d7b-406dbc6847ae.dat
+ create mode 100644 server/world/deaths/e2de95db-758c-3f06-9268-e1ae5067c5d8/2dd3f70f-fab4-4df1-828a-5b6f317fd692.dat
+ create mode 100644 server/world/deaths/e2de95db-758c-3f06-9268-e1ae5067c5d8/76548093-9c06-4a30-b010-19962e60a8ed.dat
+ create mode 100644 server/world/deaths/e2de95db-758c-3f06-9268-e1ae5067c5d8/a6742986-8811-474d-9dd1-a247cd4d9aee.dat
+ create mode 100644 server/world/deaths/e2de95db-758c-3f06-9268-e1ae5067c5d8/ed1355e8-5b36-46f1-b289-e19a1882816f.dat
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-1.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-1.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-2.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/entities/r.-2.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-1.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-1.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-1.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-2.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-2.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.-2.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.0.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/poi/r.0.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-1.-1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-1.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-1.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-1.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-2.-1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-2.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-2.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-2.2.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-3.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.-3.1.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.0.0.mca
+ create mode 100644 server/world/dimensions/dark_souls_expansion/lordran_dimension/region/r.0.1.mca
+ create mode 100644 server/world/entities/r.-1.2.mca
+ create mode 100644 server/world/entities/r.-2.0.mca
+ create mode 100644 server/world/entities/r.-2.1.mca
+ create mode 100644 server/world/poi/r.-2.0.mca
+ create mode 100644 server/world/poi/r.-2.1.mca
+ create mode 100644 server/world/poi/r.0.-2.mca
+ create mode 100644 server/world/poi/r.1.-2.mca
+ create mode 100644 server/world/poi/r.2.-1.mca
+ create mode 100644 server/world/poi/r.2.0.mca
+ create mode 100644 server/world/poi/r.2.1.mca
+ create mode 100644 server/world/region/r.-2.0.mca
+ create mode 100644 server/world/region/r.-2.1.mca
+ create mode 100644 server/world/region/r.0.-2.mca
+ create mode 100644 server/world/region/r.1.-2.mca
+ create mode 100644 server/world/region/r.2.-1.mca
+ create mode 100644 server/world/region/r.2.0.mca
+ create mode 100644 server/world/region/r.2.1.mca
+To https://github.com/hessen1z/VAlhalla-server
+   4daa494..5e7aea5  main -> main
+fatal: confused by unstable object source data for 1fc1ec1b8f2353baea3cb60cd985f868bc07cb86
+Everything up-to-date
+fatal: confused by unstable object source data for dbb2e9e33724781b0bd4be0927f12c434d0ecc23
+Everything up-to-date
