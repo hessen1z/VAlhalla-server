@@ -1780,7 +1780,8 @@
       "minecraft:beach": "2026-05-18 14:26:35 +0000",
       "minecraft:river": "2026-05-18 15:05:24 +0000",
       "minecraft:forest": "2026-05-18 14:23:00 +0000",
-      "minecraft:ocean": "2026-05-18 15:00:09 +0000"
+      "minecraft:ocean": "2026-05-18 15:00:09 +0000",
+      "minecraft:plains": "2026-05-18 18:06:00 +0000"
     },
     "done": false
   },
@@ -2468,7 +2469,9 @@
       "minecraft:skeleton": "2026-05-18 15:07:01 +0000",
       "minecraft:vindicator": "2026-05-18 16:47:11 +0000",
       "minecraft:spider": "2026-05-18 14:52:55 +0000",
-      "minecraft:zombie": "2026-05-18 15:40:26 +0000"
+      "minecraft:phantom": "2026-05-18 18:30:30 +0000",
+      "minecraft:zombie": "2026-05-18 15:40:26 +0000",
+      "minecraft:zombie_villager": "2026-05-18 19:30:40 +0000"
     },
     "done": false
   },
@@ -2621,6 +2624,7 @@
       "cooked_porkchop": "2026-05-18 16:54:48 +0000",
       "cooked_mutton": "2026-05-18 15:30:58 +0000",
       "cooked_beef": "2026-05-18 16:18:26 +0000",
+      "baked_potato": "2026-05-18 20:02:31 +0000",
       "rabbit": "2026-05-18 14:55:36 +0000",
       "bread": "2026-05-18 16:26:30 +0000",
       "cooked_chicken": "2026-05-18 15:21:32 +0000",
@@ -3489,6 +3493,8 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_persim_berry": "2026-05-18 18:59:48 +0000",
+      "obtain_rindo_berry": "2026-05-18 18:34:14 +0000",
       "obtain_wepear_berry": "2026-05-18 15:37:10 +0000"
     },
     "done": false
@@ -4225,75 +4231,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bee": {
-    "criteria": {
-      "has_honey_bottle": "2026-05-18 17:37:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/spruce_table": {
     "criteria": {
       "has_slab": "2026-05-18 17:16:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/sandstone_post": {
-    "criteria": {
-      "has_sandstone": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2026-05-18 17:21:05 +0000"
     },
     "done": true
   },
@@ -4309,27 +4249,45 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
-      "has_iron_gloves": "2026-05-18 17:37:36 +0000"
+      "has_item": "2026-05-18 17:16:46 +0000"
     },
     "done": true
   },
-  "adorn:recipes/guide_book": {
+  "adorn:recipes/spruce_bench": {
     "criteria": {
-      "has_key_item_0": "2026-05-18 17:30:26 +0000"
+      "has_slab": "2026-05-18 17:16:46 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/tools/golden_fishing_rod": {
+  "adorn:recipes/spruce_platform": {
     "criteria": {
-      "has_gold": "2026-05-18 17:37:15 +0000"
+      "has_slab": "2026-05-18 17:16:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "adorn:recipes/spruce_coffee_table": {
     "criteria": {
-      "has_book": "2026-05-18 17:30:26 +0000"
+      "has_slab": "2026-05-18 17:16:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_drawer": {
+    "criteria": {
+      "has_slab": "2026-05-18 17:16:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_step": {
+    "criteria": {
+      "has_slab": "2026-05-18 17:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2026-05-18 17:17:23 +0000"
     },
     "done": true
   },
@@ -4339,21 +4297,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+      "has_iron_axe": "2026-05-18 17:20:10 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
+  "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
-      "has_item": "2026-05-18 17:16:46 +0000"
+      "has_pumpkin": "2026-05-18 17:20:37 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/gold": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+      "has_pumpkin": "2026-05-18 17:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2026-05-18 17:20:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2026-05-18 17:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-05-18 17:21:05 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/sandstone_post": {
+    "criteria": {
+      "has_sandstone": "2026-05-18 17:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-18 17:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-05-18 17:21:05 +0000"
     },
     "done": true
   },
@@ -4369,87 +4363,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2026-05-18 17:30:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2026-05-18 17:21:05 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2026-05-18 17:20:37 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/traders_manual": {
-    "criteria": {
-      "has_key_item_0": "2026-05-18 17:30:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2026-05-18 17:20:37 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/kirkhammer": {
-    "criteria": {
-      "has_item": "2026-05-18 17:37:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/spruce_bench": {
-    "criteria": {
-      "has_slab": "2026-05-18 17:16:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_ring": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "block_factorys_bosses:recipes/building_blocks/lighting/small_candles": {
-    "criteria": {
-      "has_item": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_sword_repairing": {
-    "criteria": {
-      "has_iron_sword": "2026-05-18 17:37:36 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_axe_repairing": {
-    "criteria": {
-      "has_iron_axe": "2026-05-18 17:20:10 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/gilded_chests": {
-    "criteria": {
-      "has_gold": "2026-05-18 17:37:15 +0000"
     },
     "done": true
   },
@@ -4495,54 +4417,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_helmet_repairing": {
-    "criteria": {
-      "has_iron_helmet": "2026-05-18 17:37:14 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/gold_fillet_knife": {
-    "criteria": {
-      "has_items": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/red_mushroom_from_fish": {
-    "criteria": {
-      "has_items": "2026-05-18 17:37:34 +0000"
-    },
-    "done": true
-  },
-  "block_factorys_bosses:recipes/building_blocks/lighting/candles_extra": {
-    "criteria": {
-      "has_item": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/spruce_platform": {
-    "criteria": {
-      "has_slab": "2026-05-18 17:16:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/book_of_lore": {
-    "criteria": {
-      "has_book": "2026-05-18 17:30:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2026-05-18 17:21:05 +0000"
@@ -4552,18 +4426,6 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_lectern": {
-    "criteria": {
-      "has_book": "2026-05-18 17:30:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2026-05-18 17:30:26 +0000"
     },
     "done": true
   },
@@ -4585,27 +4447,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2026-05-18 17:20:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2026-05-18 17:21:16 +0000"
     },
     "done": true
   },
@@ -4615,39 +4459,231 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2026-05-18 17:30:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2026-05-18 17:21:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+  "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
-      "has_honey_bottle": "2026-05-18 17:37:34 +0000"
+      "has_planks": "2026-05-18 17:21:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/kings_rock": {
+    "criteria": {
+      "has_sandstone": "2026-05-18 17:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-05-18 17:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-05-18 17:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-18 17:21:16 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_bowl": "2026-05-18 17:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2026-05-18 17:21:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/guide_book": {
+    "criteria": {
+      "has_key_item_0": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/traders_manual": {
+    "criteria": {
+      "has_key_item_0": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2026-05-18 17:30:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2026-05-18 17:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_gold": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:recipes/building_blocks/lighting/small_candles": {
+    "criteria": {
+      "has_item": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/gilded_chests": {
+    "criteria": {
+      "has_gold": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:recipes/building_blocks/lighting/candles_extra": {
+    "criteria": {
+      "has_item": "2026-05-18 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:37:15 +0000"
     },
     "done": true
   },
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2026-05-18 17:37:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_gloves": "2026-05-18 17:37:36 +0000"
     },
     "done": true
   },
@@ -4663,51 +4699,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_gloves_repairing": {
-    "criteria": {
-      "has_iron_gloves": "2026-05-18 17:37:36 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/spruce_coffee_table": {
-    "criteria": {
-      "has_slab": "2026-05-18 17:16:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_bookshelf": {
-    "criteria": {
-      "has_book": "2026-05-18 17:30:26 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/seared/duct": {
     "criteria": {
       "has_item": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/kings_rock": {
-    "criteria": {
-      "has_sandstone": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/leek_and_potato_stew": {
-    "criteria": {
-      "has_bowl": "2026-05-18 17:21:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "salmon_bucket": "2026-05-18 17:17:23 +0000"
     },
     "done": true
   },
@@ -4717,51 +4711,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/spruce_drawer": {
-    "criteria": {
-      "has_slab": "2026-05-18 17:16:46 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2026-05-18 17:37:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2026-05-18 17:21:05 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bookshelf": {
-    "criteria": {
-      "has_book": "2026-05-18 17:30:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2026-05-18 17:37:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/moa_egg_pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2026-05-18 17:20:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2026-05-18 17:21:26 +0000"
     },
     "done": true
   },
@@ -4777,9 +4735,357 @@
     },
     "done": true
   },
-  "adorn:recipes/spruce_step": {
+  "travelersbackpack:recipes/misc/bee": {
     "criteria": {
-      "has_slab": "2026-05-18 17:16:46 +0000"
+      "has_honey_bottle": "2026-05-18 17:37:34 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2026-05-18 17:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-05-18 17:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-05-18 17:37:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2026-05-18 17:37:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2026-05-18 17:37:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2026-05-18 17:37:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2026-05-18 17:37:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2026-05-18 17:37:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/whipped_dream": {
+    "criteria": {
+      "has_sweet_berry": "2026-05-18 18:11:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2026-05-18 18:11:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2026-05-18 18:27:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:trickweapon": {
+    "criteria": {
+      "condition_0": "2026-05-18 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "simons_bowblade": "2026-05-18 18:33:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-05-18 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/eviolite": {
+    "criteria": {
+      "has_everstone": "2026-05-18 18:34:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2026-05-18 18:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-05-18 18:45:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2026-05-18 18:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-05-18 18:45:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2026-05-18 19:17:43 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2026-05-18 19:18:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2026-05-18 19:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-05-18 19:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_post": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-18 19:18:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/upgrade": {
+    "criteria": {
+      "has_amethyst": "2026-05-18 19:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-18 19:18:52 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2026-05-18 19:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-18 19:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-18 19:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-18 19:18:52 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2026-05-18 19:20:50 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2026-05-18 19:20:50 +0000"
+    },
+    "done": false
+  },
+  "dark_souls_expansion:supreme_weapons_advancement": {
+    "criteria": {
+      "supreme_weapons_advancement_5": "2026-05-18 19:24:01 +0000"
+    },
+    "done": false
+  },
+  "dark_souls_expansion:the_dark_soul_advancement": {
+    "criteria": {
+      "the_dark_soul_advancement_0": "2026-05-18 19:28:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2026-05-18 19:28:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:custom_backpack": {
+    "criteria": {
+      "custom_backpack": "2026-05-18 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2026-05-18 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "slu:gundyr_hunter": {
+    "criteria": {
+      "gundyr_hunter_0": "2026-05-18 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-05-18 19:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-05-18 19:34:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2026-05-18 19:42:33 +0000"
+    },
+    "done": true
+  },
+  "dark_souls_expansion:reach_lordran_advancement": {
+    "criteria": {
+      "reach_lordran_advancement_0": "2026-05-18 19:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2026-05-18 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2026-05-18 19:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-05-18 19:54:52 +0000"
     },
     "done": true
   },

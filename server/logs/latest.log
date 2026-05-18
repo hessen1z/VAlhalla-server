@@ -1814,3 +1814,385 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18May2026 18:01:23.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
 [18May2026 18:01:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Aliomar3001 to hessen123Z]
 [18May2026 18:03:49.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Cover Me with Diamonds]
+[18May2026 18:04:01.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX died
+[18May2026 18:04:03.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX was not rescued in time
+[18May2026 18:04:03.495] [Server thread/INFO] [gravestone/]: The death ID of player iSyroX is ed1355e8-5b36-46f1-b289-e19a1882816f
+[18May2026 18:04:05.485] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 18:04:45.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Isn't It Iron Pick]
+[18May2026 18:05:41.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 140.500000, 69.500000, 191.500000]
+[18May2026 18:05:47.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Spectator Mode]
+[18May2026 18:06:20.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 14.500000, 63.500000, 19.500000]
+[18May2026 18:06:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 was slain by iSyroX
+[18May2026 18:06:35.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 was not rescued in time
+[18May2026 18:06:35.843] [Server thread/INFO] [gravestone/]: The death ID of player Aliomar3001 is f5f34922-2d80-49c7-a78a-c44a3c9f7e4c
+[18May2026 18:06:38.256] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 18:06:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Aliomar3001 to Val_Guts]
+[18May2026 18:07:37.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aliomar3001 lost connection: Disconnected
+[18May2026 18:07:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 left the game
+[18May2026 18:07:42.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 18:08:10.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 418.500000, 68.500000, 675.500000]
+[18May2026 18:08:43.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 18:09:34.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 419.500000, 68.500000, 673.500000]
+[18May2026 18:10:38.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 122.500000, 65.500000, 39.500000]
+[18May2026 18:10:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [The Wind Darkening]
+[18May2026 18:11:34.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 419.500000, 68.500000, 673.500000]
+[18May2026 18:12:18.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Door Knight
+[18May2026 18:12:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 18:12:21.263] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-18.12.21.dat
+[18May2026 18:12:21.264] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is b4a92f8e-d084-4522-a80e-cbcd027838e2
+[18May2026 18:12:22.363] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 18:15:54.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iSyroX lost connection: Disconnected
+[18May2026 18:15:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX left the game
+[18May2026 18:17:17.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[18May2026 18:20:21.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iSyroX[/127.97.227.211:52243] logged in with entity id 102164 at (122.69999998807907, 65.0, 41.83760080856643)
+[18May2026 18:20:21.185] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player iSyroX
+[18May2026 18:20:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX joined the game
+[18May2026 18:20:23.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 18:22:33.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Getting Started]
+[18May2026 18:23:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Craft basic backpack]
+[18May2026 18:27:03.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Swap Tools]
+[18May2026 18:28:00.076] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[18May2026 18:28:32.798] [Worker-Main-10/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
+[18May2026 18:28:32.799] [Worker-Main-10/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.becks.interaction_boxes.common.predefinedInteractionBoxBlocktypes.InteractionBoxEntityBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18May2026 18:29:03.403] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=-56, z=-36}
+[18May2026 18:29:07.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=-56, z=-55}
+[18May2026 18:29:07.497] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-56, z=-55}
+[18May2026 18:29:07.517] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=30, y=-56, z=-36}
+[18May2026 18:29:07.517] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=32, y=-56, z=-36}
+[18May2026 18:29:07.518] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=-56, z=-36}
+[18May2026 18:29:23.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts died
+[18May2026 18:29:36.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 18:29:40.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 18:29:40.255] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-18.29.40.dat
+[18May2026 18:29:40.256] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 773da13e-da4d-4e66-b9c1-dbca9a1176ed
+[18May2026 18:29:41.608] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 18:29:58.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Junior Summoner]
+[18May2026 18:30:11.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [First Village]
+[18May2026 18:31:36.295] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:31:38.695] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:31:40.346] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:31:41.194] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.5741666
+[18May2026 18:31:48.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iSyroX moved too quickly! 1.469833012939489,-2.1661092609382138,9.869339488331718
+[18May2026 18:31:54.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[18May2026 18:32:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts was slain by hessen123Z
+[18May2026 18:33:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has reached the goal [Switcharoo!]
+[18May2026 18:33:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 18:34:01.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 18:34:08.154] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:34:08.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has made the advancement [Take Aim]
+[18May2026 18:34:11.106] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:34:12.552] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:34:13.803] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:34:16.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Custom Backpacks]
+[18May2026 18:36:02.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 18:36:21.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[18May2026 18:36:21.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 18:36:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Mother Nature's Bounty]
+[18May2026 18:36:54.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Very Berry]
+[18May2026 18:38:12.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.111.49.103:56135] logged in with entity id 113214 at (412.57096219547327, 69.0, 675.9586730256992)
+[18May2026 18:38:12.109] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 18:38:12.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 18:38:14.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 18:38:58.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 18:48:39.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts was slain by Krampus Henchman
+[18May2026 18:49:10.695] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:12.407] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:14.001] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:15.808] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:16.993] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:27.055] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:28.397] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:29.644] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:30.743] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:31.944] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.74666667
+[18May2026 18:49:33.102] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:34.297] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:35.394] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:49:36.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Crusader
+[18May2026 18:49:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 18:50:28.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Dark Metallurgy]
+[18May2026 18:51:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Siegmeyer
+[18May2026 18:51:32.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 18:51:32.217] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-18.51.32.dat
+[18May2026 18:51:32.217] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 772f9f9c-ff35-4c61-ba64-e51ef6bc4b76
+[18May2026 18:51:33.459] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 18:51:54.006] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:51:55.197] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:51:56.551] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:51:57.996] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:52:02.299] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:52:03.348] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.93416667
+[18May2026 18:52:04.296] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 18:52:05.202] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.74666667
+[18May2026 18:52:06.146] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 18:52:07.098] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.80750006
+[18May2026 18:52:08.060] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.80750006
+[18May2026 18:52:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Siegmeyer
+[18May2026 18:52:14.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 18:52:14.300] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-18.52.14.dat
+[18May2026 18:52:14.300] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 9810a187-474c-438e-815a-38f34cd3fde7
+[18May2026 18:52:15.500] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 18:52:39.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Skeleton
+[18May2026 18:52:41.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 18:52:41.651] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-18.52.41.dat
+[18May2026 18:52:41.651] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 5f1010bf-b2b6-46ff-b841-a59d964c2695
+[18May2026 18:52:42.697] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 18:52:46.963] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:52:48.347] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:52:49.567] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:52:50.800] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:52:52.147] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:53:03.647] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:53:04.817] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.5741666
+[18May2026 18:53:06.095] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:53:07.155] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:53:08.146] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.93416667
+[18May2026 18:53:09.114] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 18:53:10.070] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.80750006
+[18May2026 18:53:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Successor
+[18May2026 18:53:18.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 18:53:18.949] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is cdfdfd68-de01-4435-a79b-4d263e3d84da
+[18May2026 18:53:20.060] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 18:53:41.947] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.80750006
+[18May2026 18:53:43.098] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.93416667
+[18May2026 18:53:43.896] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.6875
+[18May2026 18:53:44.798] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.74666667
+[18May2026 18:53:45.695] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.5741666
+[18May2026 18:53:47.148] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 18:58:28.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 18:58:36.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 19:00:03.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Tools of the Trade]
+[18May2026 19:00:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has reached the goal [Quaint Scribe]
+[18May2026 19:01:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has reached the goal [Postmortal]
+[18May2026 19:02:15.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[18May2026 19:02:15.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 19:03:44.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Voluntary Exile]
+[18May2026 19:03:48.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.111.49.103:39153] logged in with entity id 124984 at (410.7833186376606, 69.0, 672.2540030168288)
+[18May2026 19:03:48.592] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 19:03:48.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 19:03:50.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 19:04:09.995] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:06:27.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX was slain by Vindicator
+[18May2026 19:06:30.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX was not rescued in time
+[18May2026 19:06:30.356] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iSyroX with unique ID travelersbackpack.diamond_18.05.2026-19.06.30.dat
+[18May2026 19:06:30.356] [Server thread/INFO] [gravestone/]: The death ID of player iSyroX is a6742986-8811-474d-9dd1-a247cd4d9aee
+[18May2026 19:06:31.750] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 19:08:20.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/125744, l='ServerLevel[world]', x=628.70, y=70.00, z=249.70] died, message: 'Villager was slain by Zombie'
+[18May2026 19:09:04.058] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/125743, l='ServerLevel[world]', x=633.30, y=70.00, z=248.30] died, message: 'Villager was shot by Pillager'
+[18May2026 19:10:43.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/125741, l='ServerLevel[world]', x=652.78, y=74.00, z=232.29] died, message: 'Florist was slain by Vindicator'
+[18May2026 19:10:53.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/125689, l='ServerLevel[world]', x=657.03, y=70.00, z=237.03] died, message: 'Toolsmith was slain by Vindicator'
+[18May2026 19:11:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Val_Guts
+[18May2026 19:13:44.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Val_Guts lost connection: Timed out
+[18May2026 19:13:44.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts left the game
+[18May2026 19:14:46.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Val_Guts[/127.252.189.66:34323] logged in with entity id 131924 at (414.58865954058206, 69.375, 671.6947220728055)
+[18May2026 19:14:46.483] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Val_Guts
+[18May2026 19:14:46.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts joined the game
+[18May2026 19:14:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 19:15:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has completed the challenge [Hero of the Village]
+[18May2026 19:15:53.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Isn't It Iron Pick]
+[18May2026 19:17:16.108] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 19:17:34.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Crystal'/133063, l='ServerLevel[world]', x=26.81, y=75.00, z=546.26] died: Crystal hit the ground too hard
+[18May2026 19:17:53.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 19:17:55.606] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.74666667
+[18May2026 19:17:56.750] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:17:58.003] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:17:59.070] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.93416667
+[18May2026 19:18:00.313] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:18:01.316] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 19:18:03.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has made the advancement [Isn't It Iron Pick]
+[18May2026 19:18:06.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Base for upgrades]
+[18May2026 19:18:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 19:18:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Iron Tier Upgrade]
+[18May2026 19:19:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Gold Tier Upgrade]
+[18May2026 19:20:48.157] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=-56, z=-36}
+[18May2026 19:20:50.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has made the advancement [First Village]
+[18May2026 19:21:18.496] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 283.8 μs. 465/510 recipes are parallelized.
+[18May2026 19:22:26.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 19:22:48.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 19:23:12.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:23:28.755] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:23:49.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:24:11.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:24:11.969] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:24:14.110] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:24:50.951] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:24:52.355] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 19:24:53.515] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.93416667
+[18May2026 19:24:54.573] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 19:25:04.450] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:25:41.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:25:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX was shot by Bonescaller
+[18May2026 19:25:45.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iSyroX was kicked for floating too long!
+[18May2026 19:25:45.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iSyroX lost connection: Flying is not enabled on this server
+[18May2026 19:25:45.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX left the game
+[18May2026 19:25:52.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iSyroX[/127.97.227.211:59185] logged in with entity id 142571 at (445.1795462140694, 69.16610926093821, 102.11693387420867)
+[18May2026 19:25:52.884] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player iSyroX
+[18May2026 19:25:52.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX joined the game
+[18May2026 19:25:55.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 19:26:04.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX was not rescued in time
+[18May2026 19:26:04.485] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iSyroX with unique ID travelersbackpack.diamond_18.05.2026-19.26.04.dat
+[18May2026 19:26:04.485] [Server thread/INFO] [gravestone/]: The death ID of player iSyroX is 76548093-9c06-4a30-b010-19962e60a8ed
+[18May2026 19:26:05.223] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-58, z=1458}
+[18May2026 19:26:05.955] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 19:26:12.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:26:12.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:26:21.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Hollow Soldier
+[18May2026 19:26:24.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 19:26:24.258] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-19.26.24.dat
+[18May2026 19:26:24.259] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 370f6389-c8ec-4e4b-8dc4-3faae84f7ec2
+[18May2026 19:26:25.606] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 19:26:38.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iSyroX lost connection: Disconnected
+[18May2026 19:26:38.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX left the game
+[18May2026 19:26:44.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to -629.500000, 68.500000, 616.500000]
+[18May2026 19:26:44.730] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:26:57.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:27:21.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:27:58.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:28:12.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iSyroX[/127.97.227.211:52607] logged in with entity id 144511 at (635.7603447769234, 77.0, 194.87774046993914)
+[18May2026 19:28:12.130] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player iSyroX
+[18May2026 19:28:12.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX joined the game
+[18May2026 19:28:13.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has made the advancement [Dark Souls Expansion]
+[18May2026 19:28:14.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 19:28:15.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Dread Hound
+[18May2026 19:28:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 19:28:18.813] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-19.28.18.dat
+[18May2026 19:28:18.813] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 7835a585-b472-4cb1-991f-7117944d92ab
+[18May2026 19:28:20.007] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 19:28:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to -603.500000, 69.500000, 615.500000]
+[18May2026 19:28:50.306] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:28:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has reached the goal [Fighting Nightmares]
+[18May2026 19:29:02.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:29:02.956] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:29:40.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:30:01.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Hollow
+[18May2026 19:30:03.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 19:30:03.623] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 18b1604b-ab55-4749-a6fd-575369f74e40
+[18May2026 19:30:04.820] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 19:30:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to -611.500000, 69.500000, 617.500000]
+[18May2026 19:30:23.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:30:23.917] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:30:33.413] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 19:30:34.348] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.63
+[18May2026 19:30:50.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:31:13.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Good Demoman]
+[18May2026 19:31:16.314] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:31:54.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:32:20.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:32:25.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[18May2026 19:32:33.598] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:32:44.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has made the advancement [Custom Backpacks]
+[18May2026 19:33:01.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/146076, l='ServerLevel[world]', x=636.72, y=71.00, z=225.52] died, message: 'Villager was slain by Iudex, Gundyr'
+[18May2026 19:33:04.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/146078, l='ServerLevel[world]', x=636.30, y=71.40, z=225.74] died, message: 'Villager was slain by Iudex, Gundyr'
+[18May2026 19:33:34.293] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.80750006
+[18May2026 19:33:35.098] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.63
+[18May2026 19:33:42.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was poked to death by a sweet berry bush whilst trying to escape Iudex, Gundyr
+[18May2026 19:33:46.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has completed the challenge [Gundyr Hunter]
+[18May2026 19:33:46.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has completed the challenge [Gundyr Hunter]
+[18May2026 19:33:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has completed the challenge [Gundyr Hunter]
+[18May2026 19:34:50.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX died
+[18May2026 19:34:52.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX was not rescued in time
+[18May2026 19:34:52.915] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iSyroX with unique ID travelersbackpack.diamond_18.05.2026-19.34.52.dat
+[18May2026 19:34:52.915] [Server thread/INFO] [gravestone/]: The death ID of player iSyroX is 005837b5-d536-4959-9d7b-406dbc6847ae
+[18May2026 19:34:54.251] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 19:35:02.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 419.500000, 68.500000, 673.500000]
+[18May2026 19:35:05.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[18May2026 19:35:36.694] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.74666667
+[18May2026 19:35:47.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 19:36:10.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 19:36:29.059] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:36:30.136] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.80750006
+[18May2026 19:36:30.843] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.74666667
+[18May2026 19:36:31.561] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.4675
+[18May2026 19:36:34.143] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.6875
+[18May2026 19:36:35.101] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.6875
+[18May2026 19:36:37.399] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.74666667
+[18May2026 19:36:38.432] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.80750006
+[18May2026 19:36:40.347] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.80750006
+[18May2026 19:36:42.095] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.93416667
+[18May2026 19:36:42.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has reached the goal [Exorcism]
+[18May2026 19:37:27.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 19:37:51.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[18May2026 19:37:51.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 19:37:51.698] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2026 19:39:15.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
+[18May2026 19:39:15.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iSyroX moved too quickly! 5.959555378442133,-2.7012968536522237,7.960696486234582
+[18May2026 19:39:15.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Val_Guts moved too quickly! -9.706403979168329,0.31343686559773687,2.778165878010782
+[18May2026 19:39:25.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.111.49.103:55251] logged in with entity id 154088 at (413.4363071176967, 69.0625, 673.8892195691516)
+[18May2026 19:39:25.930] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 19:39:25.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 19:39:28.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 19:39:33.606] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:40:30.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 19:40:31.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX died
+[18May2026 19:40:33.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX was not rescued in time
+[18May2026 19:40:33.953] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iSyroX with unique ID travelersbackpack.diamond_18.05.2026-19.40.33.dat
+[18May2026 19:40:33.953] [Server thread/INFO] [gravestone/]: The death ID of player iSyroX is 2dd3f70f-fab4-4df1-828a-5b6f317fd692
+[18May2026 19:40:35.306] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 19:41:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 19:41:17.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 19:41:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 19:41:54.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to iSyroX]
+[18May2026 19:42:04.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[18May2026 19:42:10.909] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:42:12.536] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:42:14.106] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:42:15.185] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.63
+[18May2026 19:42:15.707] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:42:16.199] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 19:42:17.214] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:42:18.636] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.86999995
+[18May2026 19:42:18.868] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:42:19.537] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.63
+[18May2026 19:42:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has reached the goal [Exorcism]
+[18May2026 19:43:20.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to -611.500000, 69.500000, 617.500000]
+[18May2026 19:43:22.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:43:25.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[18May2026 19:43:29.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has made the advancement [Reach Lordran]
+[18May2026 19:43:34.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Dark Souls Expansion]
+[18May2026 19:43:36.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Reach Lordran]
+[18May2026 19:43:36.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:44:19.186] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:44:19.186] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:44:42.838] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:44:56.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iSyroX lost connection: Disconnected
+[18May2026 19:44:56.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX left the game
+[18May2026 19:45:10.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[18May2026 19:45:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 19:45:17.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:45:17.578] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:45:42.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:46:31.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.111.49.103:47709] logged in with entity id 157746 at (-635.6474327518341, 72.0, 616.7685592890844)
+[18May2026 19:46:31.814] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 19:46:31.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 19:46:34.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 19:46:39.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:47:33.053] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:34.457] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:36.704] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:38.305] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:45.328] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:48.957] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:50.178] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:51.530] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:52.896] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:54.152] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:55.429] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:56.799] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:58.002] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:47:59.429] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:48:42.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Val_Guts
+[18May2026 19:49:38.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:49:50.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:50:17.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity dark_souls_expansion:undead_base but it was marked as removed already
+[18May2026 19:53:02.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 19:53:11.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 19:57:29.099] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:57:30.895] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 19:57:34.153] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 20:00:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 20:01:43.047] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 20:01:44.145] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 20:01:45.191] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 0.93416667
+[18May2026 20:01:46.334] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 20:02:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 20:02:19.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z moved wrongly!
