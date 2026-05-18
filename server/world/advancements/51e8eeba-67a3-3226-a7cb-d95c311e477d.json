@@ -5197,5 +5197,17 @@
     },
     "done": false
   },
+  "adorn:recipes/stone_brick_step": {
+    "criteria": {
+      "has_slab": "2026-05-18 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2026-05-18 23:32:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

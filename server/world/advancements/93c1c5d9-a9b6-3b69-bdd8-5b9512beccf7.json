@@ -5187,18 +5187,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2026-05-18 22:42:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2026-05-18 22:42:45 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/bamboo_table": {
     "criteria": {
       "has_slab": "2026-05-18 22:32:09 +0000"
@@ -5220,12 +5208,6 @@
   "adorn:recipes/bamboo_platform": {
     "criteria": {
       "has_slab": "2026-05-18 22:32:09 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/hay": {
-    "criteria": {
-      "has_wheat": "2026-05-18 22:42:45 +0000"
     },
     "done": true
   },
@@ -5262,6 +5244,42 @@
   "twilightforest:recipes/decorations/wood/bamboo_banister": {
     "criteria": {
       "has_item": "2026-05-18 22:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-05-18 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-05-18 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2026-05-18 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_step": {
+    "criteria": {
+      "has_slab": "2026-05-18 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2026-05-18 23:30:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2026-05-18 23:30:14 +0000"
     },
     "done": true
   },

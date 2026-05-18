@@ -2413,3 +2413,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18May2026 23:04:38.485] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is d1f9f184-0748-4429-9740-a1e6c53e4135
 [18May2026 23:04:45.295] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [18May2026 23:04:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:12:42.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Val_Guts lost connection: Timed out
+[18May2026 23:12:42.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts left the game
+[18May2026 23:13:13.581] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@770138cc[id=<null>,name=Val_Guts,properties={},legacy=false] (/127.191.25.156:53165) lost connection: Disconnected
+[18May2026 23:13:44.280] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1df34544[id=<null>,name=Val_Guts,properties={},legacy=false] (/127.191.25.156:49355): Took too long to log in
+[18May2026 23:13:44.282] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1df34544[id=<null>,name=Val_Guts,properties={},legacy=false] (/127.191.25.156:49355) lost connection: Took too long to log in
+[18May2026 23:13:44.329] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2026 23:15:42.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 23:16:32.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[18May2026 23:16:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[18May2026 23:16:32.671] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6206b86f[id=<null>,name=Val_Guts,properties={},legacy=false] (/127.191.25.156:46699) lost connection: Disconnected
+[18May2026 23:16:41.471] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c621a8[id=<null>,name=Val_Guts,properties={},legacy=false] (/127.191.25.156:52367) lost connection: Disconnected
+[18May2026 23:17:14.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Val_Guts[/127.191.25.156:39093] logged in with entity id 205921 at (55.05803853687047, 64.0, 74.04880242303835)
+[18May2026 23:17:14.108] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Val_Guts
+[18May2026 23:17:14.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts joined the game
+[18May2026 23:17:16.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 23:17:53.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Val_Guts lost connection: Timed out
+[18May2026 23:17:53.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts left the game
+[18May2026 23:18:04.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Val_Guts[/127.191.25.156:41867] logged in with entity id 206235 at (55.05803853687047, 64.0, 74.04880242303835)
+[18May2026 23:18:04.207] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Val_Guts
+[18May2026 23:18:04.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts joined the game
+[18May2026 23:18:06.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 23:20:11.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.6.206.11:45591] logged in with entity id 206651 at (83.2073596655439, 69.0, 146.8603946503424)
+[18May2026 23:20:11.316] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[18May2026 23:20:11.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[18May2026 23:20:13.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 23:21:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 23:24:57.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 48 experience levels to hessen123Z
+[18May2026 23:35:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
