@@ -1836,9 +1836,11 @@
     "criteria": {
       "minecraft:pillager": "2026-05-18 17:08:54 +0000",
       "minecraft:skeleton": "2026-05-18 15:01:03 +0000",
+      "minecraft:hoglin": "2026-05-18 17:34:50 +0000",
       "minecraft:vindicator": "2026-05-18 16:43:47 +0000",
       "minecraft:spider": "2026-05-18 14:59:47 +0000",
       "minecraft:creeper": "2026-05-18 15:47:54 +0000",
+      "minecraft:phantom": "2026-05-18 17:51:53 +0000",
       "minecraft:zombie": "2026-05-18 14:28:53 +0000",
       "minecraft:drowned": "2026-05-18 16:42:27 +0000"
     },
@@ -1964,9 +1966,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-05-18 17:47:38 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/spruce_table": {
     "criteria": {
       "has_slab": "2026-05-18 15:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2003,6 +2017,12 @@
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2026-05-18 15:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2066,6 +2086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "gnumus:fatty_demon": {
     "criteria": {
       "fatty_demon": "2026-05-18 15:35:38 +0000"
@@ -2075,6 +2101,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2026-05-18 15:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2093,6 +2125,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2026-05-18 15:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2129,6 +2167,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2026-05-18 17:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2207,6 +2251,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2026-05-18 16:51:30 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_gold": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2306,6 +2356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2026-05-18 15:44:47 +0000"
@@ -2315,6 +2371,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2026-05-18 15:32:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2480,6 +2542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/iron_platform": {
     "criteria": {
       "has_bars": "2026-05-18 15:32:34 +0000"
@@ -2501,6 +2569,12 @@
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2026-05-18 16:35:48 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-05-18 17:40:48 +0000"
     },
     "done": true
   },
@@ -2564,6 +2638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-05-18 17:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2026-05-18 15:32:34 +0000"
@@ -2606,6 +2686,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2026-05-18 15:32:34 +0000"
@@ -2615,6 +2701,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2026-05-18 15:29:53 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:recipes/building_blocks/lighting/small_candles": {
+    "criteria": {
+      "has_item": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2693,6 +2785,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2026-05-18 15:08:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/gilded_chests": {
+    "criteria": {
+      "has_gold": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -2864,6 +2962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2026-05-18 15:07:28 +0000"
@@ -2879,6 +2983,12 @@
   "cobblemon:recipes/held/silk_scarf": {
     "criteria": {
       "has_wool": "2026-05-18 14:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -3045,6 +3155,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2026-05-18 14:47:36 +0000"
@@ -3096,6 +3212,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2026-05-18 14:58:21 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:recipes/building_blocks/lighting/candles_extra": {
+    "criteria": {
+      "has_item": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -3159,6 +3281,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2026-05-18 17:57:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2026-05-18 14:50:08 +0000"
@@ -3213,6 +3341,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2026-05-18 17:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2026-05-18 15:29:52 +0000"
@@ -3246,6 +3380,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2026-05-18 16:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-05-18 17:47:48 +0000"
     },
     "done": true
   },
@@ -3354,6 +3494,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2026-05-18 15:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-05-18 17:47:48 +0000"
     },
     "done": true
   },
@@ -3534,6 +3680,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2026-05-18 15:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -3735,9 +3887,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "block_factorys_bosses:recipes/building_blocks/rusty_prison_door": {
     "criteria": {
       "has_item": "2026-05-18 16:35:55 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2026-05-18 17:40:48 +0000"
     },
     "done": true
   },
@@ -3777,6 +3941,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2026-05-18 14:50:08 +0000"
@@ -3801,9 +3971,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2026-05-18 15:34:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2026-05-18 17:30:09 +0000"
     },
     "done": true
   },
@@ -3951,6 +4133,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2026-05-18 17:13:37 +0000"
@@ -3984,6 +4172,12 @@
   "travelersbackpack:recipes/misc/hose_nozzle": {
     "criteria": {
       "has_iron": "2026-05-18 15:32:34 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2026-05-18 17:40:48 +0000"
     },
     "done": true
   },
@@ -4143,6 +4337,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2026-05-18 15:11:52 +0000"
@@ -4182,6 +4382,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2026-05-18 15:11:52 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2026-05-18 17:52:36 +0000"
     },
     "done": true
   },
@@ -4287,6 +4493,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2026-05-18 17:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2026-05-18 17:16:59 +0000"
@@ -4317,6 +4535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/moa_egg_pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2026-05-18 15:07:10 +0000"
@@ -4342,6 +4566,7 @@
       "rabbit": "2026-05-18 15:36:38 +0000",
       "mutton": "2026-05-18 14:50:46 +0000",
       "glow_berries": "2026-05-18 16:39:20 +0000",
+      "melon_slice": "2026-05-18 17:46:16 +0000",
       "cooked_chicken": "2026-05-18 16:47:08 +0000",
       "mushroom_stew": "2026-05-18 16:58:22 +0000",
       "cooked_salmon": "2026-05-18 17:00:04 +0000",
@@ -4403,6 +4628,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2026-05-18 17:52:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2026-05-18 17:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2026-05-18 15:00:19 +0000"
@@ -4412,6 +4649,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2026-05-18 16:35:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },
@@ -4448,6 +4691,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2026-05-18 14:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-18 17:35:26 +0000"
     },
     "done": true
   },

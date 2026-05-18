@@ -1760,3 +1760,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18May2026 17:29:19.792] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 2260d333-da84-4b3e-ae2f-960ee917f265
 [18May2026 17:29:20.956] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [18May2026 17:29:22.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 17:34:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 was slain by Zombie
+[18May2026 17:34:03.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was killed by Potion using magic
+[18May2026 17:34:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 17:34:05.242] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 67445d10-0c77-435c-9c64-77000fd9ab14
+[18May2026 17:34:06.458] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 17:34:11.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 17:34:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Zombie
+[18May2026 17:34:35.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iSyroX> ttt
+[18May2026 17:34:41.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 17:34:41.689] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 01a13365-69c4-4a10-a798-426ce7dd029b
+[18May2026 17:34:41.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z moved wrongly!
+[18May2026 17:34:43.295] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 17:34:44.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 17:34:54.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 died
+[18May2026 17:35:19.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 died
+[18May2026 17:35:57.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Zombie
+[18May2026 17:36:00.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 was slain by Zombie
+[18May2026 17:36:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 17:36:01.669] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 48640010-69e0-4000-aa4c-0f81300228c7
+[18May2026 17:36:02.901] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 17:36:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Aliomar3001]
+[18May2026 17:36:22.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Zombie
+[18May2026 17:36:24.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 17:36:24.701] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is ce350eda-f217-4a0f-b46d-228c08d71aca
+[18May2026 17:36:25.805] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 17:36:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Aliomar3001]
+[18May2026 17:38:26.843] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 17:38:27.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Take Aim]
+[18May2026 17:38:29.045] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 17:41:46.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Zombie
+[18May2026 17:42:26.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX was slain by Zombie
+[18May2026 17:42:43.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX died
+[18May2026 17:43:34.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 has made the advancement [Getting an Upgrade]
+[18May2026 17:44:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Suit Up]
+[18May2026 17:47:38.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Not Today, Thank You]
+[18May2026 17:48:31.142] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 17:48:32.689] [Server thread/INFO] [STDOUT/]: [net.minecraft.world.item.BowItem:localvar$zli000$modifyPowerForTime:540]: 1.0
+[18May2026 17:50:29.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has reached the goal [Horror of the Depths]
+[18May2026 17:53:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Not Today, Thank You]
+[18May2026 17:55:07.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 was slain by iSyroX
+[18May2026 17:57:15.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aliomar3001 lost connection: Disconnected
+[18May2026 17:57:15.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 left the game
+[18May2026 17:57:28.491] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3af8e154[id=<null>,name=Aliomar3001,properties={},legacy=false] (/127.207.240.103:37289) lost connection: Disconnected
+[18May2026 17:57:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts has made the advancement [Junior Summoner]
+[18May2026 17:57:41.689] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3cde6ab2[id=<null>,name=Aliomar3001,properties={},legacy=false] (/127.207.240.103:46841) lost connection: Disconnected
+[18May2026 17:57:44.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aliomar3001[/127.207.240.103:45517] logged in with entity id 93736 at (197.84328852575564, 64.0, 58.00358894214915)
+[18May2026 17:57:44.781] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Aliomar3001
+[18May2026 17:57:44.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliomar3001 joined the game
+[18May2026 17:57:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 17:57:47.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/217, l='ServerLevel[world]', x=143.74, y=63.00, z=178.15] died, message: 'Armorer was slain by Ernos'
+[18May2026 18:01:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Diamonds!]
+[18May2026 18:01:23.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[18May2026 18:01:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Aliomar3001 to hessen123Z]
+[18May2026 18:03:49.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iSyroX has made the advancement [Cover Me with Diamonds]

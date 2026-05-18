@@ -2638,7 +2638,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2026-05-18 17:01:34 +0000",
-      "rotten_flesh": "2026-05-18 17:00:27 +0000"
+      "bread": "2026-05-18 17:43:41 +0000",
+      "rotten_flesh": "2026-05-18 17:00:27 +0000",
+      "carrot": "2026-05-18 17:37:29 +0000"
     },
     "done": false
   },
@@ -2651,7 +2653,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-05-18 17:25:20 +0000",
+      "minecraft:skeleton": "2026-05-18 17:30:55 +0000",
       "minecraft:vindicator": "2026-05-18 17:08:22 +0000",
+      "minecraft:creeper": "2026-05-18 17:54:34 +0000",
       "minecraft:zombie": "2026-05-18 17:06:35 +0000"
     },
     "done": false
@@ -3142,6 +3146,36 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2026-05-18 17:49:16 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2026-05-18 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-05-18 17:53:25 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2026-05-18 17:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2026-05-18 17:22:51 +0000"
@@ -3172,9 +3206,51 @@
     },
     "done": true
   },
+  "block_factorys_bosses:recipes/building_blocks/rope_roll": {
+    "criteria": {
+      "has_item": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2026-05-18 17:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-05-18 17:38:27 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2026-05-18 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:recipes/building_blocks/net": {
+    "criteria": {
+      "has_item": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2026-05-18 17:38:19 +0000"
     },
     "done": true
   },
@@ -3184,9 +3260,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2026-05-18 17:36:44 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2026-05-18 17:20:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2026-05-18 17:44:30 +0000"
     },
     "done": true
   },
@@ -3199,6 +3287,18 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2026-05-18 17:22:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2026-05-18 17:34:20 +0000"
     },
     "done": true
   },
@@ -3244,6 +3344,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-05-18 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-05-18 17:49:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2026-05-18 17:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2026-05-18 17:27:33 +0000"
@@ -3262,9 +3380,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-05-18 17:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2026-05-18 17:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2026-05-18 17:44:30 +0000"
     },
     "done": true
   },
@@ -3286,15 +3416,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2026-05-18 17:19:44 +0000"
     },
     "done": false
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2026-05-18 17:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2026-05-18 17:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-05-18 17:49:16 +0000"
     },
     "done": true
   },
@@ -3304,15 +3458,33 @@
     },
     "done": true
   },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2026-05-18 17:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2026-05-18 17:22:51 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/oak_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2026-05-18 17:22:51 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2026-05-18 17:38:19 +0000"
     },
     "done": true
   },
@@ -3325,6 +3497,12 @@
   "adorn:recipes/birch_bench": {
     "criteria": {
       "has_slab": "2026-05-18 17:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2026-05-18 17:45:14 +0000"
     },
     "done": true
   },
@@ -3364,6 +3542,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_bowl": "2026-05-18 17:29:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2026-05-18 17:21:37 +0000"
@@ -3388,15 +3572,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-05-18 17:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2026-05-18 17:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2026-05-18 17:29:17 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/dark_oak_post": {
     "criteria": {
       "has_dark_oak_planks": "2026-05-18 17:27:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2026-05-18 17:29:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2026-05-18 17:49:50 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/dark_oak_kitchen_sink": {
     "criteria": {
       "has_planks": "2026-05-18 17:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2026-05-18 17:49:16 +0000"
     },
     "done": true
   },
