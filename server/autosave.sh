@@ -4,7 +4,7 @@ while true
 do
     git add .
 
-    git commit -m "autosave $(date)"
+    git diff --cached --quiet || git commit -m "autosave $(date)"
 
     git push
 
