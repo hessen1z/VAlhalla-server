@@ -2375,3 +2375,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18May2026 22:28:17.490] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
 [18May2026 22:28:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
 [18May2026 22:28:19.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[18May2026 22:35:42.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 22:38:09.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Ghost Samurai
+[18May2026 22:38:25.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts was slain by Ghost Samurai
+[18May2026 22:38:35.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 22:38:35.553] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-22.38.35.dat
+[18May2026 22:38:35.553] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 5c3c3574-92c1-4f44-a329-0cca95aa3c0f
+[18May2026 22:38:36.793] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 22:38:42.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 22:41:07.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by White Phantom
+[18May2026 22:41:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 22:42:30.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 22:42:33.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 22:42:33.110] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is ff0c6e7c-1fd1-4cd4-8fc6-7cf67220947f
+[18May2026 22:42:34.942] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 22:42:37.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 22:43:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to -8.500000, 64.500000, 75.500000]
+[18May2026 22:43:36.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[18May2026 22:45:34.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 22:45:36.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[18May2026 22:49:30.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Dark Spirit
+[18May2026 22:49:31.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Val_Guts lost connection: Timed out
+[18May2026 22:49:31.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts left the game
+[18May2026 22:50:22.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 22:50:22.498] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hessen123Z with unique ID travelersbackpack.standard_18.05.2026-22.50.22.dat
+[18May2026 22:50:22.499] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 53b4629d-0a9e-4445-8d5c-01b86b1d7d75
+[18May2026 22:50:25.982] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 22:53:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[18May2026 22:53:41.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
