@@ -5015,6 +5015,7 @@
     "criteria": {
       "supreme_weapons_advancement_11": "2026-05-18 21:50:27 +0000",
       "supreme_weapons_advancement_5": "2026-05-18 19:24:01 +0000",
+      "supreme_weapons_advancement_14": "2026-05-19 00:26:07 +0000",
       "supreme_weapons_advancement_19": "2026-05-18 21:52:25 +0000"
     },
     "done": false
@@ -5265,6 +5266,24 @@
     },
     "done": true
   },
+  "adorn:recipes/stone_brick_step": {
+    "criteria": {
+      "has_slab": "2026-05-18 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2026-05-18 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2026-05-18 23:30:20 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/netherite_nugget_from_ingot": {
     "criteria": {
       "has_item": "2026-05-19 00:03:26 +0000"
@@ -5280,12 +5299,6 @@
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/stone_brick_step": {
-    "criteria": {
-      "has_slab": "2026-05-18 23:30:14 +0000"
     },
     "done": true
   },
@@ -5331,12 +5344,6 @@
     },
     "done": true
   },
-  "adorn:recipes/candlelit_lantern": {
-    "criteria": {
-      "has_candle": "2026-05-18 23:30:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
@@ -5352,12 +5359,6 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/stone_brick_platform": {
-    "criteria": {
-      "has_slab": "2026-05-18 23:30:14 +0000"
     },
     "done": true
   },
@@ -5384,6 +5385,102 @@
       "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2026-05-19 00:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2026-05-19 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "dark_souls_expansion:knight_honor_advancement": {
+    "criteria": {
+      "knight_honor_advancement_15": "2026-05-19 00:11:52 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/netherite_smithing": {
+    "criteria": {
+      "has_netherite": "2026-05-19 00:25:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-19 00:29:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

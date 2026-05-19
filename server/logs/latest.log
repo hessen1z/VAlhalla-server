@@ -1,1 +1,49 @@
 [19May2026 00:01:03.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[19May2026 00:11:19.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[19May2026 00:11:24.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[19May2026 00:11:24.981] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 76bfee48-16b8-4172-bf55-e1901cc01a98
+[19May2026 00:11:26.248] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19May2026 00:11:31.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[19May2026 00:11:36.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 137.500000, 66.500000, 159.500000]
+[19May2026 00:18:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died because of Val_Guts
+[19May2026 00:18:55.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[19May2026 00:18:55.390] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 26eca8ab-996b-4fba-9ba9-31d86d2537c4
+[19May2026 00:18:56.588] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19May2026 00:19:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[19May2026 00:22:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Spectator Mode]
+[19May2026 00:23:13.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[19May2026 00:23:19.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[19May2026 00:23:25.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Spectator Mode]
+[19May2026 00:23:38.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Survival Mode]
+[19May2026 00:25:13.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[19May2026 00:25:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Netherite Traveler's Backpack] to hessen123Z
+[19May2026 00:26:16.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'travelersbackpack:'
+[19May2026 00:26:16.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...essen123Z travelersbackpack:<--[HERE]
+[19May2026 00:27:07.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Gave 1 [Netherite Traveler's Backpack] to hessen123Z]
+[19May2026 00:27:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Set own game mode to Creative Mode]
+[19May2026 00:27:42.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[19May2026 00:27:42.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[19May2026 00:29:09.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.6.206.11:57467] logged in with entity id 219700 at (53.695261005796894, 65.0, 74.18147934276476)
+[19May2026 00:29:09.186] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[19May2026 00:29:09.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[19May2026 00:29:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[19May2026 00:29:50.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[19May2026 00:29:50.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[19May2026 00:31:17.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.6.206.11:39739] logged in with entity id 219979 at (53.695261005796894, 65.0, 74.18147934276476)
+[19May2026 00:31:17.365] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[19May2026 00:31:17.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[19May2026 00:31:19.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[19May2026 00:31:59.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[19May2026 00:31:59.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[19May2026 00:33:15.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.6.206.11:54533] logged in with entity id 220231 at (53.53937973397915, 65.0, 73.88544972395393)
+[19May2026 00:33:15.265] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[19May2026 00:33:15.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[19May2026 00:33:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[19May2026 00:33:58.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z lost connection: Disconnected
+[19May2026 00:33:58.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z left the game
+[19May2026 00:35:25.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hessen123Z[/127.6.206.11:47877] logged in with entity id 220479 at (58.08720656000739, 64.0, 66.47253883836785)
+[19May2026 00:35:25.178] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hessen123Z
+[19May2026 00:35:25.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z joined the game
+[19May2026 00:35:27.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[19May2026 00:35:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z has made the advancement [(Optional) Fluid Tanks Upgrade]
+[19May2026 00:35:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Gave 1 [Backpack Tank] to hessen123Z]
