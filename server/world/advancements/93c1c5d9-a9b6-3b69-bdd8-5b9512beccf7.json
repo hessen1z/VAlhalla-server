@@ -5265,9 +5265,69 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_brick_step": {
     "criteria": {
       "has_slab": "2026-05-18 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/debris_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2026-05-19 00:03:26 +0000"
     },
     "done": true
   },
@@ -5277,9 +5337,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_brick_platform": {
     "criteria": {
       "has_slab": "2026-05-18 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-19 00:03:26 +0000"
     },
     "done": true
   },

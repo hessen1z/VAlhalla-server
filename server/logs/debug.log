@@ -44083,3 +44083,283 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18May2026 23:35:06.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [18May2026 23:35:06.868] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
 [18May2026 23:35:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:35:36.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:35:36.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:35:36.918] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:36:06.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:36:06.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:36:06.968] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:36:37.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:36:37.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:36:37.018] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:37:05.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was struck by lightning
+[18May2026 23:37:07.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:37:07.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:37:07.068] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:37:37.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:37:37.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:37:37.118] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:38:07.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:38:07.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:38:07.168] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:38:37.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:38:37.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:38:37.218] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:39:07.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:39:07.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:39:07.268] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:39:13.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2026 23:39:13.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2026 23:39:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Executor
+[18May2026 23:39:37.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:39:37.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:39:37.318] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:39:39.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Val_Guts
+[18May2026 23:39:42.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts died
+[18May2026 23:39:52.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:39:52.712] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 48df11a2-0e13-4284-81d2-3331e100a91b
+[18May2026 23:39:53.943] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:39:53.952] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:39:57.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:40:07.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:40:07.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:40:07.369] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:40:37.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:40:37.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:40:37.418] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:40:49.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Dark Knight
+[18May2026 23:41:07.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:41:07.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:41:07.468] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:41:37.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:41:37.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:41:37.518] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:41:53.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts was slain by Executor
+[18May2026 23:42:07.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:42:07.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:42:07.568] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:42:24.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:42:27.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:42:27.288] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 091f8a14-6a75-4b66-8223-64a8a9a86bc1
+[18May2026 23:42:28.455] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:42:28.464] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:42:29.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:42:37.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:42:37.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:42:37.619] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:43:07.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:43:07.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:43:07.668] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:43:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was struck by lightning
+[18May2026 23:43:19.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:43:19.594] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is faf444e4-a74f-46f7-a663-96aa459a7ce2
+[18May2026 23:43:19.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hessen123Z moved wrongly!
+[18May2026 23:43:20.767] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:43:20.777] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:43:21.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:43:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts died
+[18May2026 23:43:37.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:43:37.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:43:37.719] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:43:38.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[18May2026 23:43:42.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was struck by lightning
+[18May2026 23:43:47.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Val_Guts
+[18May2026 23:43:51.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts died
+[18May2026 23:43:51.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Val_Guts
+[18May2026 23:43:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:43:54.633] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 199a1604-979c-4118-9ca1-9c1ae2bbd426
+[18May2026 23:43:55.967] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:43:55.976] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:43:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:44:07.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:44:07.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:44:07.768] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:44:13.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2026 23:44:13.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2026 23:44:37.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:44:37.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:44:37.818] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:45:07.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:45:07.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:45:07.868] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:45:17.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was slain by Ghost Samurai
+[18May2026 23:45:37.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:45:37.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:45:37.919] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:45:43.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:45:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:45:49.667] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 82d4f81c-a030-439f-b9a9-34aed1a6d655
+[18May2026 23:45:50.841] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:45:50.850] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:45:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:46:07.973] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:46:07.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:46:07.974] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:46:38.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:46:38.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:46:38.018] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:47:08.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:47:08.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:47:08.068] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:47:25.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:47:38.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:47:38.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:47:38.118] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:47:42.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:48:08.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:48:08.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:48:08.168] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:48:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts died
+[18May2026 23:48:38.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:48:38.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:48:38.218] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:49:08.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:49:08.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:49:08.268] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:49:13.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2026 23:49:13.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2026 23:49:38.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:49:38.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:49:38.318] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:49:45.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Val_Guts was slain by Hollow Soldier
+[18May2026 23:50:07.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:50:08.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:50:08.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:50:08.368] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:50:09.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:50:09.885] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is c960f723-dac7-4474-bdba-2efda076d004
+[18May2026 23:50:11.142] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:50:11.152] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:50:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:50:38.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:50:38.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:50:38.418] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:51:08.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:51:08.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:51:08.469] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:51:38.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:51:38.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:51:38.518] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:52:05.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:52:08.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:52:08.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:52:08.568] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:52:11.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:52:11.142] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is ac4e820e-ed2c-433b-af31-121e29347099
+[18May2026 23:52:12.426] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:52:12.436] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:52:13.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:52:38.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:52:38.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:52:38.618] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:53:08.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:53:08.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:53:08.669] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:53:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:53:26.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:53:26.698] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 539d881b-f0f9-4576-9f43-c8dc054c5ac7
+[18May2026 23:53:28.002] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:53:28.013] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:53:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:53:38.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:53:38.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:53:38.718] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:54:08.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:54:08.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:54:08.768] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:54:13.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2026 23:54:13.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2026 23:54:38.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:54:38.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:54:38.818] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:54:49.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:54:53.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:54:53.213] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 8e182c8f-45ee-498e-89f2-41059e48fb99
+[18May2026 23:54:54.342] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:54:54.351] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:54:55.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:55:02.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 181.500000, 66.500000, 200.500000]
+[18May2026 23:55:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:55:08.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:55:08.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:55:08.868] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:55:38.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:55:38.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:55:38.919] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:56:08.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:56:08.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:56:08.968] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:56:39.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:56:39.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:56:39.018] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:57:09.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:57:09.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:57:09.068] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:57:14.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:57:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:57:16.735] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is 26dcc063-e208-485e-ae16-3aa91237c821
+[18May2026 23:57:17.941] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:57:17.951] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:57:19.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:57:22.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 154.500000, 85.500000, 263.500000]
+[18May2026 23:57:39.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:57:39.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:57:39.118] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:58:09.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:58:09.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:58:09.168] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:58:14.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z died
+[18May2026 23:58:16.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hessen123Z was not rescued in time
+[18May2026 23:58:16.585] [Server thread/INFO] [gravestone/]: The death ID of player hessen123Z is f701c78d-4486-43dd-8907-dca6455f5cb0
+[18May2026 23:58:17.743] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2026 23:58:17.752] [Server thread/DEBUG] [twilightforest/]: Player hessen123Z (93c1c5d9-a9b6-3b69-bdd8-5b9512beccf7) respawned and received items held in storage
+[18May2026 23:58:19.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to Val_Guts]
+[18May2026 23:58:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported hessen123Z to 156.500000, 73.500000, 263.500000]
+[18May2026 23:58:39.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:58:39.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:58:39.218] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:59:09.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:59:09.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:59:09.269] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[18May2026 23:59:13.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2026 23:59:13.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2026 23:59:39.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[18May2026 23:59:39.322] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[18May2026 23:59:39.322] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18May2026 23:59:39.322] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:00:09.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:00:09.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:00:09.368] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:00:39.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:00:39.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:00:39.418] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:01:03.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hessen123Z: Teleported Val_Guts to hessen123Z]
+[19May2026 00:01:09.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:01:09.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:01:09.469] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:01:39.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:01:39.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:01:39.518] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:02:09.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:02:09.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:02:09.568] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:02:39.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:02:39.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:02:39.619] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:03:09.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:03:09.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:03:09.669] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:03:39.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:03:39.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:03:39.718] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:04:09.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:04:09.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:04:09.768] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:04:13.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2026 00:04:13.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2026 00:04:39.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:04:39.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:04:39.818] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19May2026 00:05:09.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19May2026 00:05:09.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19May2026 00:05:09.869] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
