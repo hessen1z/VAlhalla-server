@@ -1,0 +1,48 @@
+
+#Sol's Party System - Server Configuration
+[server]
+
+	#Party Limits
+	[server.limits]
+		#Maximum number of players in a party (1-10)
+		#Range: 1 ~ 10
+		maxPartySize = 10
+		#Radius in blocks for shared EXP (10-200)
+		#Range: 10 ~ 200
+		sharedExpRadius = 50
+		#Seconds before party invite expires (10-300)
+		#Range: 10 ~ 300
+		inviteExpirationSeconds = 60
+		#Cooldown between pings in seconds (1-30)
+		#Range: 1 ~ 30
+		pingCooldownSeconds = 3
+		#Minutes of inactivity before player is marked AFK (1-60)
+		#Range: 1 ~ 60
+		afkTimeoutMinutes = 5
+		#Enable auto-kick for AFK players (disabled by default)
+		enableAfkTimeout = false
+
+	#Feature Toggles
+	[server.features]
+		#Allow players to create parties
+		allowPartyCreation = true
+		#Allow shared EXP feature
+		allowSharedExp = true
+		#Allow party PvP toggle
+		allowPvpToggle = true
+		#Allow ping system
+		allowPingSystem = true
+		#Allow party chat
+		allowPartyChat = true
+		#Allow non-OP leaders to use Invite All from the invite screen
+		inviteAllFeatureEnabled = true
+
+	#Default Party Settings
+	[server.defaults]
+		#Default PvP setting for new parties
+		defaultPvpEnabled = true
+		#Default privacy setting for new parties
+		defaultPrivateParty = false
+		#Default shared EXP setting for new parties
+		defaultSharedExpEnabled = true
+
