@@ -6226,84 +6226,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2026-05-20 00:21:28 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
-    "criteria": {
-      "has_item": "2026-05-20 00:20:11 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/misc/common/tinkers_gadgetry": {
     "criteria": {
       "has_item": "2026-05-20 00:13:48 +0000"
@@ -6323,27 +6245,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2026-05-20 00:20:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2026-05-20 00:20:11 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2026-05-20 00:13:48 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/chungus_monolith": {
-    "criteria": {
-      "has_item": "2026-05-20 00:14:30 +0000"
     },
     "done": true
   },
@@ -6353,9 +6257,45 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-05-20 00:13:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2026-05-20 00:14:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
+    "criteria": {
+      "has_item": "2026-05-20 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-05-20 00:20:11 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2026-05-20 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2026-05-20 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2026-05-20 00:20:12 +0000"
     },
     "done": true
   },
@@ -6365,15 +6305,153 @@
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+  "simplyswords:grant_book_on_first_join": {
     "criteria": {
-      "has_slime_ball": "2026-05-20 00:13:48 +0000"
+      "tick": "2026-05-25 18:41:20 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
+  "rogcontinued:rogadvancement": {
     "criteria": {
-      "has_item": "2026-05-20 00:20:11 +0000"
+      "rogadvancement": "2026-05-25 18:41:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-05-25 18:41:20 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2026-05-25 18:56:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-05-25 19:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-05-25 19:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2026-05-25 19:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-25 19:22:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-25 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/blackstone_step": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/blackstone_platform": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:21:46 +0000"
     },
     "done": true
   },
