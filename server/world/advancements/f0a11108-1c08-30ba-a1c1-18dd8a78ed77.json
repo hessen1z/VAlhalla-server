@@ -6009,57 +6009,34 @@
     },
     "done": true
   },
-  "adorn:recipes/dark_oak_step": {
+  "rogcontinued:boneadvancement": {
     "criteria": {
-      "has_slab": "2026-05-25 20:18:13 +0000"
+      "boneadvancement": "2026-05-25 19:16:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
+  "dark_souls_expansion:supreme_weapons_advancement": {
     "criteria": {
-      "has_planks": "2026-05-25 20:21:12 +0000"
+      "supreme_weapons_advancement_11": "2026-05-25 19:36:03 +0000",
+      "supreme_weapons_advancement_19": "2026-05-25 19:31:46 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2026-05-25 19:33:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+  "apotheosis:affix/random": {
     "criteria": {
-      "has_purple_dye": "2026-05-25 20:11:32 +0000"
+      "sword": "2026-05-25 19:33:58 +0000"
     },
     "done": true
   },
-  "adorn:recipes/dark_oak_platform": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "has_slab": "2026-05-25 20:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2026-05-25 20:17:58 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/oak_post": {
-    "criteria": {
-      "has_oak_planks": "2026-05-25 20:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2026-05-25 20:11:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2026-05-25 20:17:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2026-05-25 20:11:32 +0000"
+      "double_trouble_0": "2026-05-25 19:35:17 +0000"
     },
     "done": true
   },
@@ -6069,21 +6046,27 @@
     },
     "done": true
   },
-  "rogcontinued:boneadvancement": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "boneadvancement": "2026-05-25 19:16:55 +0000"
+      "has_logs": "2026-05-25 19:35:22 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/bow_repairing": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "has_bow": "2026-05-25 20:16:45 +0000"
+      "location0": "2026-05-25 19:40:59 +0000"
     },
     "done": true
   },
-  "soulsweapons:root": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "crafting_table": "2026-05-25 20:21:19 +0000"
+      "exorcism_0": "2026-05-25 19:41:03 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2026-05-25 19:46:13 +0000"
     },
     "done": true
   },
@@ -6093,15 +6076,240 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2026-05-25 20:08:17 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "demons_grasp": "2026-05-25 20:20:19 +0000",
+      "emerald_sage_bow": "2026-05-25 20:08:17 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2026-05-25 20:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2026-05-25 20:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2026-05-25 20:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2026-05-25 20:11:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:dye_backpack": {
+    "criteria": {
+      "dye_backpack": "2026-05-25 20:11:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-05-25 20:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-25 20:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-25 20:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-25 20:11:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2026-05-25 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2026-05-25 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2026-05-25 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2026-05-25 20:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-05-25 20:16:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2026-05-25 20:16:49 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2026-05-25 20:16:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "cobalt": "2026-05-25 20:16:49 +0000",
+      "seared_stone": "2026-05-25 20:16:49 +0000",
+      "weeping_vine": "2026-05-25 20:16:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-05-25 20:17:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_platform": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:17:48 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_step": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2026-05-25 20:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-05-25 20:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-05-25 20:17:58 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_step": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_platform": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_table": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_coffee_table": {
+    "criteria": {
+      "has_slab": "2026-05-25 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2026-05-25 20:20:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2026-05-25 20:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2026-05-25 20:21:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "adorn:recipes/oak_post": {
     "criteria": {
-      "has_logs": "2026-05-25 19:35:22 +0000"
+      "has_oak_planks": "2026-05-25 20:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-05-25 20:21:12 +0000"
     },
     "done": true
   },
@@ -6123,81 +6331,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2026-05-25 19:35:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2026-05-25 20:21:12 +0000"
     },
     "done": true
   },
-  "tconstruct:world/ancient_tools": {
-    "criteria": {
-      "war_pick": "2026-05-25 20:16:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2026-05-25 20:16:45 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/andesite_platform": {
-    "criteria": {
-      "has_slab": "2026-05-25 20:17:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2026-05-25 20:17:58 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:dye_backpack": {
-    "criteria": {
-      "dye_backpack": "2026-05-25 20:11:32 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2026-05-25 20:21:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2026-05-25 20:18:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2026-05-25 20:21:12 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_chair": {
-    "criteria": {
-      "has_slab": "2026-05-25 20:18:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2026-05-25 20:14:40 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/corrupted_eye": {
-    "criteria": {
-      "corrupted_eye": "2026-05-25 20:20:19 +0000"
     },
     "done": true
   },
@@ -6213,131 +6355,15 @@
     },
     "done": true
   },
-  "adorn:recipes/andesite_step": {
-    "criteria": {
-      "has_slab": "2026-05-25 20:17:48 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_bench": {
-    "criteria": {
-      "has_slab": "2026-05-25 20:18:13 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2026-05-25 20:11:32 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/oak_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2026-05-25 20:21:12 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2026-05-25 20:14:40 +0000"
-    },
-    "done": true
-  },
-  "too_many_bows:root": {
-    "criteria": {
-      "has_any_bow": "2026-05-25 20:08:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2026-05-25 20:21:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2026-05-25 20:14:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-05-25 20:11:32 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_shelf": {
-    "criteria": {
-      "has_slab": "2026-05-25 20:18:13 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_drawer": {
-    "criteria": {
-      "has_slab": "2026-05-25 20:18:13 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2026-05-25 19:33:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-05-25 20:11:32 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2026-05-25 19:33:58 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2026-05-25 19:40:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2026-05-25 20:17:58 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/tinker_tool": {
-    "criteria": {
-      "crafted_tool": "2026-05-25 20:16:49 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/material_master": {
-    "criteria": {
-      "cobalt": "2026-05-25 20:16:49 +0000",
-      "seared_stone": "2026-05-25 20:16:49 +0000",
-      "weeping_vine": "2026-05-25 20:16:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-05-25 20:11:32 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/boss": {
-    "criteria": {
-      "sword": "2026-05-25 19:46:13 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2026-05-25 19:41:03 +0000"
     },
     "done": true
   },
@@ -6353,29 +6379,15 @@
     },
     "done": true
   },
-  "endrem:main/root": {
+  "soulsweapons:root": {
     "criteria": {
-      "corrupted_eye": "2026-05-25 20:20:19 +0000"
+      "crafting_table": "2026-05-25 20:21:19 +0000"
     },
     "done": true
   },
-  "too_many_bows:master_bow_collector": {
+  "aquamirae:adventure/root": {
     "criteria": {
-      "demons_grasp": "2026-05-25 20:20:19 +0000",
-      "emerald_sage_bow": "2026-05-25 20:08:17 +0000"
-    },
-    "done": false
-  },
-  "dark_souls_expansion:supreme_weapons_advancement": {
-    "criteria": {
-      "supreme_weapons_advancement_11": "2026-05-25 19:36:03 +0000",
-      "supreme_weapons_advancement_19": "2026-05-25 19:31:46 +0000"
-    },
-    "done": false
-  },
-  "adorn:recipes/dark_oak_table": {
-    "criteria": {
-      "has_slab": "2026-05-25 20:18:13 +0000"
+      "crafting_table": "2026-05-25 20:21:19 +0000"
     },
     "done": true
   },
@@ -6385,23 +6397,83 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_boots_repairing": {
-    "criteria": {
-      "has_golden_boots": "2026-05-25 20:08:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2026-05-25 20:21:19 +0000"
     },
     "done": true
   },
-  "adorn:recipes/dark_oak_coffee_table": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_slab": "2026-05-25 20:18:13 +0000"
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-26 00:34:58 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
